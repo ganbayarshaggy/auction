@@ -15,7 +15,7 @@ return [
     'project_name' => 'Дуудлага худалдаа',
 
     // Menu logos
-    'logo_lg'   => '<b>Буцах</b>pack',
+    'logo_lg'   => '<b>Auction</b>',
     'logo_mini' => '<b>B</b>p',
 
     // Developer or company name. Shown in footer.
@@ -25,7 +25,7 @@ return [
     'developer_link' => 'http://pcsp.gov.mn',
 
     // Show powered by Laravel Backpack in the footer?
-    'show_powered_by' => true,
+    'show_powered_by' => false,
 
     // The AdminLTE skin. Affects menu color and primary/secondary colors used throughout the application.
     'skin' => 'skin-purple',
